@@ -1,4 +1,6 @@
 This is the repo for the Colouring Cities Research Programme general information page
+https://entopia.github.io/colouring-cities.github.io/
+
 
 ## Tips
 To edit main text click on index.markdown
